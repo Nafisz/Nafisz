@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning on **@Coursera**
 - learn about ml and dl with **@DicodingxMicrososft**
 
->#### account
+>#### comunity
 💬 Join my Discord: [discord](https://discord.com/channels/1369984315638939718/1369984316334931992) or @BASICBRINE99
 
 >##### Skils
@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 
 >##### Edu Platform
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" /> <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white" />
+
+#### Connect with me
+![https://www.instagram.com/leaderhandsome123?igsh=MW9rNTc2Z3VubjIwaA==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/nafis-turing-a16042321](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://leetcode.com/u/j8DMgzZk9v/](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![https://x.com/ZinNafis20833?t=bUftMQoGX5UlkWXxgfukBQ&s=09](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=whit)
