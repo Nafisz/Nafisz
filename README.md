@@ -37,5 +37,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" /> <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white" />
 
 #### Connect with me
-![https://www.instagram.com/leaderhandsome123?igsh=MW9rNTc2Z3VubjIwaA==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/nafis-turing-a16042321](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://leetcode.com/u/j8DMgzZk9v/](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![https://x.com/ZinNafis20833?t=bUftMQoGX5UlkWXxgfukBQ&s=09](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=whit)
+[![ins](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leaderhandsome123?igsh=MW9rNTc2Z3VubjIwaA==) [![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafis-turing-a16042321) [![leet](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/j8DMgzZk9v/) [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=whit)](https://x.com/ZinNafis20833?t=bUftMQoGX5UlkWXxgfukBQ&s=09)
+
+
+
 ![Nafisz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafisz)
