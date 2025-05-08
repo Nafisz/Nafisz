@@ -1,7 +1,7 @@
 ## Hello Cosmos Nafis Here
 ![Demo GIF](github-header-image.png) 
 >### i will change universe with GNOSIS
-![Demo GIF](senku.gif) [![Nafisz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafisz)]
+![Demo GIF](senku.gif) ![Nafisz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafisz)
 <!--
 **Nafisz/Nafisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
