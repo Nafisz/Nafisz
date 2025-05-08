@@ -1,6 +1,7 @@
 ## Hello Cosmos Nafis Here
-![Demo GIF](senku.gif)
+![Demo GIF](github-header-image.png)
 >### i will change universe with GNOSIS
+![Demo GIF](senku.gif)
 <!--
 **Nafisz/Nafisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
