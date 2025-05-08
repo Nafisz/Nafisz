@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello Cosmos Nafis Here
+![Demo GIF](senku.gif)
+>### i will change universe with GNOSIS
 <!--
 **Nafisz/Nafisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning on **@Coursera**
+- learn about ml and dl with **@DicodingxMicrososft**
+
+>#### account
+💬 Join my Discord: [discord](https://discord.com/channels/1369984315638939718/1369984316334931992) or @BASICBRINE99
