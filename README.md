@@ -1,7 +1,7 @@
 ## Hello Cosmos Nafis Here
 ![Demo GIF](github-header-image.png) 
 >### i will change universe with GNOSIS
-![Demo GIF](senku.gif) ![Nafisz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafisz)
+![Demo GIF](senku.gif)
 <!--
 **Nafisz/Nafisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 
 #### Connect with me
 ![https://www.instagram.com/leaderhandsome123?igsh=MW9rNTc2Z3VubjIwaA==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/nafis-turing-a16042321](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://leetcode.com/u/j8DMgzZk9v/](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![https://x.com/ZinNafis20833?t=bUftMQoGX5UlkWXxgfukBQ&s=09](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=whit)
+![Nafisz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafisz)
