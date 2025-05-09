@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning on **@Coursera**
-- learn about ml and dl with **@DicodingxMicrososft**
+- learn about ml and dl with **@DicodingxMicrosoft**
 
 >#### comunity
 💬 Join my Discord: [discord](https://discord.com/channels/1369984315638939718/1369984316334931992) or @BASICBRINE99
